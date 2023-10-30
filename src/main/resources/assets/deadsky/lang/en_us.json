@@ -1,0 +1,38 @@
+{
+	"deadsky.config.vanilla_rebalance.totem_cooldown": "Totem Of Undying cooldown",
+	"deadsky.config.vanilla_rebalance.totemt_cooldown.description": "Time (in ticks) until the item can be used again. (0 to disable)",
+
+	"deadsky.config.vanilla_rebalance.rework_netherite_defense": "Rework Netherite Defense",
+	"deadsky.config.vanilla_rebalance.rework_nehterite_defense": "Makes netherite give more health at the cost of its armor and toughness values. (NYI)",
+
+	"effect.deadsky.frostburn": "Frostburn",
+	"death.deadsky.frostburn": "%1$s froze to death!",
+
+	"block.deadsky.void_metal_ore": "Void Metal Ore",
+	"item.deadsky.raw_void_metal": "Raw Void Metal",
+	"item.deadsky.raw_void_metal.description": "The chunks of Endstone on this are brittle.",
+	"block.deadsky.raw_void_metal_ore": "Block of Raw Void Metal",
+	"item.deadsky.raw_void_metal_block.description": "The Endstone on this just breaks when touched.",
+	"item.deadsky.void_metal_nugget": "Void Metal Nugget",
+	"item.deadsky.void_metal_nugget.description": "A bit cold to the touch.",
+	"item.deadsky.void_metal_ingot": "Void Metal Ingot",
+	"item.deadsky.void_metal_ingot.description": "Cold to the touch.",
+	"block.deadsky.void_metal_block": "Block of Void Metal",
+	"item.deadsky.void_metal_block.description": "So cold that it is hard to carry.",
+	"item.deadsky.void_metal_axe": "Void Metal Axe",
+	"item.deadsky.void_metal_shovel": "Void Metal Shovel",
+	"item.deadsky.void_metal_hoe": "Void Metal Hoe",
+	"item.deadsky.void_metal_pickaxe": "Void Metal Pickaxe",
+	"item.deadsky.void_metal_sword": "Void Metal Sword",
+	"item.deadsky.void_metal_sword.hit_effect": "Inflicts frostburn to those hit!",
+	"item.deadsky.void_metal_helmet": "Void Metal Helmet",
+	"item.deadsky.void_metal_chestplate": "Void Metal Chestplate",
+	"item.deadsky.void_metal_leggings": "Void Metal Leggings",
+	"item.deadsky.void_metal_boots": "Void Metal Boots",
+	"item.deadsky.void_metal_shield": "Void Metal Shield",
+	"item.deadsky.void_metal_shield.description": "When something hits this they will suffer!",
+	"item.deadsky.void_metal_upgrade_template": "Smithing Template",
+	"deadsky.void_metal_upgrade_template.title": "Void Metal Upgrade",
+	"deadsky.void_metal_upgrade_template.apply_to": "Any Iron Tool, Leather Armor, and Shield",
+	"deadsky.void_metal_upgrade_template.ingredients": "Void Metal Ingot"
+}

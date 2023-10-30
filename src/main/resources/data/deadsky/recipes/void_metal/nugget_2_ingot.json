@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rrr",
+    "rrr",
+    "rrr"
+  ],
+  "key": {
+    "r": {
+      "item": "deadsky:void_metal_nugget"
+    }
+  },
+  "result": {
+    "item": "deadsky:void_metal_ingot",
+    "count": 1
+  }
+}

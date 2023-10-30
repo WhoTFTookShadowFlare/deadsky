@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ini",
+    "nbn",
+    "ini"
+  ],
+  "key": {
+    "i": {
+      "item": "deadsky:void_metal_ingot"
+    },
+    "b": {
+      "item": "deadsky:void_metal_block"
+    },
+    "n": {
+      "item": "deadsky:void_metal_nugget"
+    }
+  },
+  "result": {
+    "item": "deadsky:void_metal_upgrade_template"
+  }
+}

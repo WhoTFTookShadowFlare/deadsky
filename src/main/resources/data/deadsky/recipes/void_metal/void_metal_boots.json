@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "deadsky:void_metal_upgrade_template"
+  },
+  "base": {
+    "item": "minecraft:leather_boots"
+  },
+  "addition": {
+    "item": "deadsky:void_metal_ingot"
+  },
+  "result": {
+    "item": "deadsky:void_metal_boots"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "deadsky:raw_void_metal_block"
+    }
+  ],
+  "result": {
+    "item": "deadsky:raw_void_metal",
+    "count": 9
+  }
+}

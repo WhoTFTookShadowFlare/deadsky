@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "deadsky:void_metal_block",
+    "deadsky:void_metal_ingot",
+    "deadsky:void_metal_nugget",
+    "deadsky:raw_void_metal",
+    "deadsky:raw_void_metal_block"
+  ]
+}

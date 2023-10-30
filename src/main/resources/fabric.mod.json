@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "deadsky",
+	"version": "${version}",
+	"name": "Dead Sky",
+	"description": "A mod with difficulty and adventure.",
+	"authors": [
+		"ShadowFlare"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/dead_sky/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.shadowflare.deadsky.DeadSky"
+		],
+		"client": [
+		],
+		"modmenu": [
+			"me.shadowflare.deadsky.config.ModMenu"
+		]
+	},
+	"mixins": [
+      "deadsky.general.mixins.json",
+		"deadsky.netherite_rework.mixins.json"
+	],
+	"accessWidener": "deadsky.accesswidener",
+	"depends": {
+		"fabricloader": ">=0.14.23",
+		"minecraft": "~1.20.2",
+		"java": ">=17",
+		"fabric-api": "*",
+		"completeconfig-gui-cloth": "*",
+		"fabricshieldlib": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,33 @@
+{
+  "feature": "deadsky:void_metal_ore",
+  "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": 12
+        },
+        "max_inclusive": {
+          "absolute": 62
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "minecraft:uniform",
+        "value": {
+          "min_inclusive": 0,
+          "max_inclusive": 5
+        }
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    }
+  ]
+}

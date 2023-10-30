@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "deadsky:void_metal_upgrade_template"
+  },
+  "base": {
+    "item": "deadsky:void_metal_block"
+  },
+  "addition": {
+    "item": "deadsky:void_metal_ingot"
+  },
+  "result": {
+    "item": "deadsky:void_metal_upgrade_template",
+    "count": 2
+  }
+}

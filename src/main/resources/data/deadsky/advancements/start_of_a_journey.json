@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:dirt"
+    },
+    "title": "Welcome to your death.",
+    "description": "Start a world with the deadsky mod."
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+  }
+}
